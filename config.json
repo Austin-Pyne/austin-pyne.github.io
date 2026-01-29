@@ -25,9 +25,9 @@
   },
   "social_links": [
     {
-      "name": "GitHub",
+      "name": "YouTube",
       "url": "https://github.com/Austin-Pyne",
-      "icon": "github",
+      "icon": "youtube",
       "required": true
     }
   ],
