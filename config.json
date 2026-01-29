@@ -34,7 +34,7 @@
       "name": "Spotify",
       "url": "https://open.spotify.com/user/your-id",
       "icon": "spotify",
-      "required": false
+      "required": true
     }
   ],
   "github_username": "Austin-Pyne",
