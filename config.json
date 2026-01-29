@@ -33,7 +33,7 @@
     {
       "name": "GitHub",
       "url": "https://open.spotify.com/user/your-id",
-      "icon": "youtubemusic",
+      "icon": "youtube-music",
       "required": true
     }
   ],
