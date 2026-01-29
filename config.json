@@ -31,9 +31,9 @@
       "required": true
     },
     {
-      "name": "GitHub",
+      "name": "Spotify",
       "url": "https://open.spotify.com/user/your-id",
-      "icon": "youtube-music",
+      "icon": "spotify",
       "required": true
     }
   ],
