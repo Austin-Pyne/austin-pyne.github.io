@@ -26,9 +26,15 @@
   "social_links": [
     {
       "name": "YouTube",
-      "url": "https://github.com/Austin-Pyne",
+      "url": "https://www.youtube.com/@Austin-Pyne",
       "icon": "youtube",
       "required": true
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/user/your-id",
+      "icon": "spotify",
+      "required": false
     }
   ],
   "github_username": "Austin-Pyne",
