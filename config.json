@@ -76,17 +76,17 @@
         }
       },
       {
-        "name": "Task Automation Script",
-        "date": "March 05, 2026",
+        "name": "Music I Made",
+        "date": "November 28, 2025",
         "description": [
-          "Python-based automation tool for streamlining daily workflows",
-          "Reduces manual data entry time by automating file organization",
-          "Utilizes secure environment variables for API authentication"
+          "Making music has been a passion of mine for the past few years",
+          "Last year in November is when I decided to actually start taking",
+          "it seriously and launched my first album."
         ],
         "picture": "assets/projects/Trackocalypse.webp",
         "link": {
-          "url": "https://github.com/Austin-Pyne",
-          "title": "View Project"
+          "url": "https://open.spotify.com/artist/625mvIydThjU6AGU24Ahwm",
+          "title": "Listen To My Music"
         }
       }
     ]
