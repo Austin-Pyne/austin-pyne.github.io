@@ -60,6 +60,34 @@
           "url": "https://Austin-Pyne.github.io/austin-pyne.github.io",
           "title": "View Live Site"
         }
+      },
+      {
+        "name": "E-Commerce Dashboard",
+        "date": "February 10, 2026",
+        "description": [
+          "Interactive data visualization platform for online sales tracking",
+          "Integrates with third-party APIs to fetch real-time inventory updates",
+          "Mobile-first design ensuring compatibility across all devices"
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "https://github.com/Austin-Pyne",
+          "title": "View Repository"
+        }
+      },
+      {
+        "name": "Task Automation Script",
+        "date": "March 05, 2026",
+        "description": [
+          "Python-based automation tool for streamlining daily workflows",
+          "Reduces manual data entry time by automating file organization",
+          "Utilizes secure environment variables for API authentication"
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "https://github.com/Austin-Pyne",
+          "title": "View Project"
+        }
       }
     ]
   },
