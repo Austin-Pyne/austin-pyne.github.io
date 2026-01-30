@@ -115,10 +115,10 @@
       {
         "name": "Programming Languages & Technologies",
         "items": [
+          "HTML",
+          "CSS",
           "JavaScript",
-          "Python",
-          "Java",
-          "TypeScript"
+          ""
         ]
       },
       {
@@ -126,18 +126,18 @@
         "items": [
           "Git",
           "GitHub",
-          "VS Code",
-          "Docker"
+          "Node.js",
+          ""
         ]
       },
       {
-        "name": "Certifications",
+        "name": "Highlights",
         "items": [
           {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
+            "name": "",
+            "url": ""
           },
-          "You can also add certifications without links"
+          "Top 50 games for innovation in the GitHub Jam 2025"
         ]
       }
     ]
